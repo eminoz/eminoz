@@ -4,7 +4,7 @@
 
 I am Emin from Turkey and I work as a fullstack developer.I am a self-taught so that I really enjoy learning new languages and libraries like Go, React etc.  
 
-Skills: Javascript, React, Nodejs, Go, Docker, Kubernetes and Microservice
+##### Skills: Javascript, React, Nodejs, Go, Docker, Kubernetes and Microservice
 
 - 📫 How to reach me: eminoz@yahoo.com 
 

@@ -1,4 +1,4 @@
-### Hi there 👋, My name is  emin oz
+### Hi there 👋, My name is Emin Oz
 #### Fullstack Developer
 ![Fullstack Developer](https://github.com/eminoz/eminoz/blob/main/IMG_6492.JPG?raw=true)
 

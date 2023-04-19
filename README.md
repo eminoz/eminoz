@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Emin Oz
-#### Fullstack Developer
+#### Software Developer
 
 
 ##### I am Emin from Turkey and I work as a fullstack developer.I am a self-taught so that I really enjoy learning new languages and libraries like Go, React etc.  
